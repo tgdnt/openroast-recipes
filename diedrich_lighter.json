@@ -1,0 +1,99 @@
+{
+    "creator": "Tiago",
+    "roastName": "Diedrich Lighter",
+    "steps": [
+        {
+            "targetTemp": 250,
+            "sectionTime": 30,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 200,
+            "sectionTime": 60,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 220,
+            "sectionTime": 60,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 240,
+            "sectionTime": 60,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 260,
+            "sectionTime": 60,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 280,
+            "sectionTime": 60,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 290,
+            "sectionTime": 60,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 300,
+            "sectionTime": 60,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 310,
+            "sectionTime": 60,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 350,
+            "sectionTime": 60,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 390,
+            "sectionTime": 60,
+            "fanSpeed": 8
+        },
+        {
+            "targetTemp": 420,
+            "sectionTime": 60,
+            "fanSpeed": 7
+        },
+        {
+            "targetTemp": 450,
+            "sectionTime": 60,
+            "fanSpeed": 6
+        },
+        {
+            "targetTemp": 470,
+            "sectionTime": 60,
+            "fanSpeed": 5
+        },
+        {
+            "targetTemp": 490,
+            "sectionTime": 75,
+            "fanSpeed": 5
+        },
+        {
+            "cooling": true,
+            "sectionTime": 180,
+            "fanSpeed": 5
+        }
+    ],
+    "roastDescription": {
+        "roastType": "City+ to Full City++",
+        "description": "4oz batch size\n\nFirst step is on EMPTY roaster.  This equalizes the temperature to guarantee a consistent start.  Drop beans at 5sec remaining.\n\nI tried regular Diedrich Style roast profile and cut it short before the final 1-minute heat section.  The bean was about 5.5 oz of Sweet Maria's Ethiopiques Blend 2.0.  It turned out a good cup.\n\nFor the next batch, this drops the last, hottest step in the Diedrich Style roast profile and adds an intermediate one-minute step, prolonging the initial warming up.\n\nI have yet to record first crack point below.\n\nTimes quoted are profile times.\n\n1st Crack starts at about 13:30 (early into step 15) and goes on vigorously for about 1:30."
+    },
+    "totalTime": 1065,
+    "bean": {
+        "region": "Africa",
+        "country": "Ethiopia",
+        "source": {
+            "reseller": "Sweet Maria's",
+            "link": "https://www.sweetmarias.com/sweet-maria-s-ethiopiques-version-2-0-6113.html"
+        }
+    }
+}
