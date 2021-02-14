@@ -67,12 +67,12 @@
             "targetTemp": 450
         },
         {
-            "sectionTime": 60,
+            "sectionTime": 50,
             "fanSpeed": 5,
             "targetTemp": 470
         },
         {
-            "sectionTime": 60,
+            "sectionTime": 20,
             "fanSpeed": 5,
             "targetTemp": 490
         },
@@ -95,5 +95,5 @@
             "link": "https://www.sweetmarias.com/sweet-maria-s-ethiopiques-version-2-0-6113.html"
         }
     },
-    "totalTime": 1050
+    "totalTime": 1000
 }
